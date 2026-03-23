@@ -23,7 +23,7 @@ GUI application that uses the Microsoft Edge Text-to-Speech engine (`edge-tts`).
 
 ## Screenshot
 
-![Dragon Edge-TTS](dragonedgettsscreenshot.jpeg)
+![Dragon Edge-TTS](dragonedgetts.png)
 
 ## Installation
 
